@@ -1,2 +1,4 @@
 # hello-world
-checl how it works
+check how it works
+
+Just checking how it works.
